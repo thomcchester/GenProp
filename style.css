@@ -1,36 +1,44 @@
 body{
   font-family: 'Open Sans', sans-serif;
-  background-color:#326621;
+  background-color:#4C5A37;
+  text-align: center;
 }
 .generateProperty{
   /*margin:0 auto;*/
   display:block;
-  height:50px;
 }
 
 .wrapper{
-  width:475px;
-    margin:0 auto;
+  width:525px;
+  margin:0 auto;
 }
 .container{
   color:white;
-  background-color:black;
-  width:475px;
+  background-color:#2C2F29;
+  width:525px;
   display:block;
   border-radius:1px;
 }
 button{
-  padding:5px;
+  padding:10px 8px;
   border-radius:10px;
   border:none;
+  background-color:#D3CAA9;
+  margin-top:4px;
+  margin-right:4px;list-style;
+
 }
 .show{
   float:right;
   margin-top:4px;
-  margin-right:4px;
+  margin-right:4px;list-style;
 }
 
+.property{
+  height:45px;
+}
 p{
  display: inline-block;
  margin:5px 15px;
+ padding-top:5px;
 }
