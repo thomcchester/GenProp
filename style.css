@@ -1,0 +1,36 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color:#326621;
+}
+.generateProperty{
+  /*margin:0 auto;*/
+  display:block;
+  height:50px;
+}
+
+.wrapper{
+  width:475px;
+    margin:0 auto;
+}
+.container{
+  color:white;
+  background-color:black;
+  width:475px;
+  display:block;
+  border-radius:1px;
+}
+button{
+  padding:5px;
+  border-radius:10px;
+  border:none;
+}
+.show{
+  float:right;
+  margin-top:4px;
+  margin-right:4px;
+}
+
+p{
+ display: inline-block;
+ margin:5px 15px;
+}
